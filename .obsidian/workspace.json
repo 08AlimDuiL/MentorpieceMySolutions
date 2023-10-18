@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4b2f92e92b921d1c",
+        "id": "a2b68c2a493d83f9",
         "type": "tabs",
         "children": [
           {
-            "id": "5c458be40211c914",
+            "id": "c161a7f3377e882c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3fb49f42ead4996",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +147,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5c458be40211c914",
+  "active": "c161a7f3377e882c",
   "lastOpenFiles": [
-    "02_Реляционные_базы_данных/Тест.md",
     "README.md",
+    "02_Реляционные_базы_данных/Тест.md",
     "images/cover.png",
     "images/04_04.png",
     "images/01_04.png",
