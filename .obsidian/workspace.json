@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "414dc87658f1441a",
+        "id": "833427d8ca7b7681",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f1071190e8be92",
+            "id": "5dc30dbf647a342c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,13 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "f60e7ef5753941d2",
+            "id": "1d9b2bd4ab43aab2",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -138,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,15 +147,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "011c4df1c0c77527",
+  "active": "5dc30dbf647a342c",
   "lastOpenFiles": [
-    "04_SQL_функции",
+    "05_Вложенные запросы/Тест.md",
+    "04_SQL_функции/Тест.md",
     "03_SQL_запросы/Тест.md",
     "02_Реляционные_базы_данных/Тест.md",
+    "README.md",
+    "05_Вложенные запросы",
+    "04_SQL_функции",
     "images/02_04.png",
     "images/03_01.png",
     "Без названия.md",
-    "README.md",
     "03_SQL_запросы",
     "images/cover.png",
     "images/02_01.png",
